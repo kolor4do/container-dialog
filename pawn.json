@@ -7,11 +7,6 @@
 	"dependencies": [
 		"sampctl/samp-stdlib"
 	],
-	"dev_dependencies": [
-		"ScavengeSurvive/test-boilerplate",
-		"ScavengeSurvive/test-boilerplate-item",
-		"ScavengeSurvive/test-boilerplate-items"
-	],
 	"runtime": {
 		"version": "0.3.7",
 		"mode": "server",
