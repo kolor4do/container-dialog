@@ -7,7 +7,7 @@
 	"dependencies": [
 		"sampctl/samp-stdlib",
 		"ScavengeSurvive/container",
-		"ScavengeSurvive/inventory-dialog",
+		"nicolasmenegoni/inventory-dialog",
 		"Southclaws/zcmd"
 	],
 	"dev_dependencies": [
