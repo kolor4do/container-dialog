@@ -9,15 +9,6 @@
 #endif
 #define _container_dialog_included
 
-
-#include <a_samp>
-#include <logger>
-#include <container>
-#include <inventory-dialog>
-#include <YSI_Visual\y_dialog>
-#include <YSI_Coding\y_hooks>
-
-
 // -
 // Function API
 // -
