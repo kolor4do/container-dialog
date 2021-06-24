@@ -5,10 +5,7 @@
 	"entry": "test.pwn",
 	"output": "test.amx",
 	"dependencies": [
-		"sampctl/samp-stdlib",
-		"ScavengeSurvive/container",
-		"nicolasmenegoni/inventory-dialog",
-		"Southclaws/zcmd"
+		"sampctl/samp-stdlib"
 	],
 	"dev_dependencies": [
 		"ScavengeSurvive/test-boilerplate",
